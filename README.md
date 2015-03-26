@@ -12,7 +12,7 @@ This Script a mini-forum script .Script written by Caner Ergez<br><br>
 5 - Fill out the form<br>
 6 - Complete , Let's Fun :)<br>
 
-<h4>Warning</h4> : Deafult admin login settings , <br>
+<h4>Warning</h4> Deafult admin login settings , <br>
 <b>admin:admin</b><br><br>
 
 Please Create New User and Go To Admin Panel (website/admin) 'user settings' an update a new user '1' (Admin)<br><br>
